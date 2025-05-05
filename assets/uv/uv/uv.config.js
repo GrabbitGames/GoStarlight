@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/assets/uv/',
-    bare:'https://bare.benrogo.net/',
+    bare:'https://focus-bare2.onrender.com',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/assets/uv/uv/uv.handler.js',
